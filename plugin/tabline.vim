@@ -1,7 +1,3 @@
-" File: tabline.vim
-" Source: https://github.com/kh3phr3n/tabline
-" Original: https://github.com/mkitt/tabline.vim
-
 " Initialization
 " --------------
 
