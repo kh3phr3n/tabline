@@ -3,7 +3,7 @@
 Forked from [tabline.vim](https://github.com/mkitt/tabline.vim),
 inspired by [vim-ctrlspace](https://github.com/szw/vim-ctrlspace)
 
-![tabs](https://static.tuxico.com/tabline/preview.png)
+![tabs](https://cdn.nixsys.fr/static/github/tabline/preview.png)
 
 ## Features
 
